@@ -10,24 +10,25 @@ Background: one of my clients wants to use Foundation 5.x but also on IE8. By ex
 - [Credits](#Credits)
 
 ## Usage
-You can use it in 2 ways:
-1) Download the .zip and install it on your server
-2) Directly send your CSS file to my server and have it rendered: http://kubrickolo.gy/rem_and_px
-Example:
+You can use it in 2 ways:<br>
+1) Download the .zip and install it on your server<br>
+2) Directly send your CSS file to my server and have it rendered: http://kubrickolo.gy/rem_and_px<br>
+Example:<br>
 ```http://kubrickolo.gy/rem_and_px/?u=https://someurl.com/style.css```
 
 If you want to you can add the param ```uval``` this will skip the search for the font-size value used to determine REM
 
-Example 1:
+Example 1:<br>
 ```http://kubrickolo.gy/rem_and_px/?u=https://someurl.com/style.css```
 
-Example 2:
+Example 2:<br>
 ```http://kubrickolo.gy/rem_and_px/?u=https://someurl.com/style.css&uval=20%```
-Example 3:
+
+Example 3:<br>
 ```http://kubrickolo.gy/rem_and_px/?u=https://someurl.com/style.css&uval=20px```
 
 ## Info
-Use it directly on: http://kubrickolo.gy/
+Use it directly on: http://kubrickolo.gy/<br>
 Contact: bob.vanluijt@elsevier.com
 
 ## Credits
